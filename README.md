@@ -13,6 +13,7 @@ Scraping the cost of internet across different countries from worldpopulationrev
     - [main.go](/main.go)
 
 - run your scraper
+
 you can run through either:
     - go run .
     - go run main.go
